@@ -1,0 +1,23 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "test simple math function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garzoku/jestTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garzoku/jestTest/issues"
+  },
+  "homepage": "https://github.com/garzoku/jestTest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "type": "module"
+}
